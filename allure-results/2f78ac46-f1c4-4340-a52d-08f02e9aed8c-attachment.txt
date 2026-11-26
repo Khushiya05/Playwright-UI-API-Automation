@@ -1,3 +1,0 @@
-URL: https://restful-booker.herokuapp.com/auth
-Status: 200
-Body: {"token":"c1feb727b30cda3"}
