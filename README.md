@@ -1,3 +1,5 @@
+# Playwright-UI-API-Automation
+QA Automation Project using Playwright
 # Playwright Ecommerce Automation
 
 Project structure for organizing ecommerce UI and API automation with Playwright and TypeScript.
